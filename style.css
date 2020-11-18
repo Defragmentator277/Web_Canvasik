@@ -1,0 +1,26 @@
+*
+{
+    padding: 0;
+}
+
+body 
+{
+    width: 99%;
+    /* margi */
+}
+
+canvas 
+{
+    border: 1px solid black;
+}
+
+canvas#_1
+{
+    /* height: 100px;
+    width: 500px; */
+}
+
+canvas#_2
+{
+    width: inherit;
+}
